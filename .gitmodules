@@ -1,0 +1,6 @@
+[submodule "subapps/monodb"]
+	path = subapps/monodb
+	url = https://github.com/nulocat/MonoDB.git
+[submodule "Pomodoro"]
+	path = Pomodoro
+	url = https://github.com/nulocat/Pomodoro.git
